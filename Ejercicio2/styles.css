@@ -1,0 +1,27 @@
+th,td{
+    border: 1px solid black;
+    padding: 6px 20px;
+    width: 100px;
+}
+
+table{
+    text-align: center;
+}
+
+
+.fondonaranja th{
+    background-color: orange;
+}
+
+.button {
+    background-color: orange;
+    color: rgb(0, 0, 0);
+    border: 1px solid  orange;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+
+.size th, .size td{
+    width: 171px;
+}
